@@ -1,2 +1,2 @@
-print('Hello world')
+print('merge conflict')
 print ('breaking code')
