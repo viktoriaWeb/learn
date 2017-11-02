@@ -1,2 +1,2 @@
-print('merge conflict')
+print('merge conflict+conflict')
 print ('breaking code')
